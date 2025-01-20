@@ -1,0 +1,16 @@
+using UnityEngine;
+
+public class HelloWold1 : MonoBehaviour
+{
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        Debug.Log("Helloworld");
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
